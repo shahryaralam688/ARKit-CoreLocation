@@ -426,6 +426,8 @@
 				Base,
 			);
 			mainGroup = 49A3FBCF1F09988100AA59C8;
+			packageReferences = (
+			);
 			productRefGroup = 49A3FBD91F09988100AA59C8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -981,10 +983,10 @@
 			baseConfigurationReference = 8C31ACA439BC114F28F96BDD /* Pods-ARKit+CoreLocation.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 7L4359M6G7;
 				INFOPLIST_FILE = "ARKit+CoreLocation/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.maaap.ProjectDent.ARKit-CoreLocation";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.maaap.ProjectDent.ARKit-CoreLocation55";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -996,10 +998,10 @@
 			baseConfigurationReference = CED01C5C93D16CD7C03711E5 /* Pods-ARKit+CoreLocation.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 7L4359M6G7;
 				INFOPLIST_FILE = "ARKit+CoreLocation/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.maaap.ProjectDent.ARKit-CoreLocation";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.maaap.ProjectDent.ARKit-CoreLocation55";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
